@@ -140,18 +140,18 @@ In a file named `numbers.js`, you should be able to do the following:
   - [X] `Math.floor(num1 / num2)`
 - [X] Predict how the output of your program will change when you change the values of `num1` and `num2`
 - [X] Assign a number to a variable named `blah` and...
-  - [ ] Get the right-most digit in `blah` using the `%` operator
-  - [ ] Determine whether `blah` is even or odd
-  - [ ] Increment the value of `blah`...
-    - [ ] By `1`
-    - [ ] By `2`
-    - [ ] By `10`
-    - [ ] By `k`, where `k` is a variable containing a number
-  - [ ] Decrement the value of `blah`...
-    - [ ] By `1`
-    - [ ] By `2`
-    - [ ] By `10`
-    - [ ] By `k`, where `k` is a variable containing a number
+  - [X] Get the right-most digit in `blah` using the `%` operator
+  - [X] Determine whether `blah` is even or odd
+  - [X] Increment the value of `blah`...
+    - [X] By `1`
+    - [X] By `2`
+    - [X] By `10`
+    - [X] By `k`, where `k` is a variable containing a number
+  - [X] Decrement the value of `blah`...
+    - [X] By `1`
+    - [X] By `2`
+    - [X] By `10`
+    - [X] By `k`, where `k` is a variable containing a number
 
 ### Strings
 
