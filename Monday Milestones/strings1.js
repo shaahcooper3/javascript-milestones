@@ -15,4 +15,4 @@ console.log(waffles.toLowerCase()); // lowercase
 console.log(waffles[0]); // first character of a string
 console.log(waffles[1]); // second character of a string
 console.log(waffles[waffles.length - 1]); // last character of a string
-console.log(waffles[k - 1]); // get the k index of a string (Variable set above)
+console.log(waffles[k - 1]); // get the k index of a string (Variable set above: k)
