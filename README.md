@@ -157,18 +157,18 @@ In a file named `numbers.js`, you should be able to do the following:
 
 In a file called `strings.js`, you should be able to do the following:
 
-- [ ] Assign different strings to two variables named `str1` and `str2` and...
-  - [ ] Print the values of `str1` and `str2`
-  - [ ] Concatenate `str1` and `str2`
-  - [ ] Determine whether `str1` appears in `str2` using `String.prototype.includes`
-- [ ] Assign a string to a variable named `waffles` and...
-  - [ ] Get the number of characters in the string (its length)
-  - [ ] Convert it to uppercase
-  - [ ] Convert it to lowercase
-  - [ ] Get the 1st character in `waffles` (at index `0`)
-  - [ ] Get the 2nd character in `waffles` (at index `1`)
-  - [ ] Get the last character in `waffles`
-  - [ ] Define a variable `k` containing a number and get the character at index `k` in `waffles`
+- [X] Assign different strings to two variables named `str1` and `str2` and...
+  - [X] Print the values of `str1` and `str2`
+  - [X] Concatenate `str1` and `str2`
+  - [X] Determine whether `str1` appears in `str2` using `String.prototype.includes`
+- [X] Assign a string to a variable named `waffles` and...
+  - [X] Get the number of characters in the string (its length)
+  - [X] Convert it to uppercase
+  - [X] Convert it to lowercase
+  - [X] Get the 1st character in `waffles` (at index `0`)
+  - [X] Get the 2nd character in `waffles` (at index `1`)
+  - [X] Get the last character in `waffles`
+  - [X] Define a variable `k` containing a number and get the character at index `k` in `waffles`
   - [ ] Modify the value of `waffles` by appending the letter `'a'` to it
 - [ ] Use template literals to print a formatted string containing dynamic information, e.g., if `firstName` is `'Jesse'`, use a template literal to print `'Hello, Jesse!'`.
 
@@ -176,22 +176,21 @@ In a file called `strings.js`, you should be able to do the following:
 
 In a file called `arrays.js`, you should be able to do the following:
 
-- [ ] Declare a variable named `coolArray` containing an array of at least 5 elements (of any type)
-- [ ] Get the length of `coolArray`
-- [ ] Get the value of...
-  - [ ] The 1st element in `coolArray` (at index `0`)
-  - [ ] The 2nd element in `coolArray` (at index `1`)
-  - [ ] The last element in `coolArray`
-  - [ ] The element at index `k` in `coolArray`, where `k` is a variable containing a number
-- [ ] Change the value of...
-  - [ ] The 1st element in `coolArray` (at index `0`)
-  - [ ] The 2nd element in `coolArray` (at index `1`)
-  - [ ] The last element in `coolArray`
-  - [ ] The element at index `k` in `coolArray`, where `k` is a variable containing a number
-- [ ] Append an element to `coolArray`
-- [ ] Remove the last element of `coolArray`
-- [ ] Prepend an element to `coolArray`
-- [ ] Remove the first element of `coolArray`
+- [X] Declare a variable named `coolArray` containing an array of at least 5 elements (of any type)
+- [X] Get the length of `coolArray`
+- [X] Get the value of...
+  - [X] The 1st element in `coolArray` (at index `0`)
+  - [X] The 2nd element in `coolArray` (at index `1`)
+  - [X] The last element in `coolArray`
+  - [X] The element at index `k` in `coolArray`, where `k` is a variable containing a number
+- [X] Change the value of...
+  - [X] The 1st element in `coolArray` (at index `0`)
+  - [X] The 2nd element in `coolArray` (at index `1`)
+  - [X] The last element in `coolArray`
+  - [X] The element at index `k` in `coolArray`, where `k` is a variable containing a number
+- [X] Append an element to `coolArray`
+- [X] Remove the last element of `coolArray`
+- [X] Remove the first element of `coolArray`
 
 ### Objects
 
