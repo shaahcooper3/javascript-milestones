@@ -93,20 +93,20 @@ While this code uses `+`, the output will be nothing but a column of numbers. Wh
 
 You should be able to...
 
-- [ ] Open the terminal outside of VS code
-- [ ] Use `cd` to navigate between directories
-- [ ] Use `ls` to list the contents of a directory
-- [ ] Use `mkdir` to create an empty directory
-- [ ] Use `code` to open VS Code
-- [ ] Use `git clone` to download a git repository onto your computer
+- [X] Open the terminal outside of VS code
+- [X] Use `cd` to navigate between directories
+- [X] Use `ls` to list the contents of a directory
+- [X] Use `mkdir` to create an empty directory
+- [X] Use `code` to open VS Code
+- [X] Use `git clone` to download a git repository onto your computer
 
 ### Editing And Running Code
 
 You should be able to...
 
-- [ ] Create a new (empty) JavaScript file named `sandbox.js` and edit it in VS code
-- [ ] Write some JavaScript in `sandbox.js`
-- [ ] Use `node` in the terminal to run the file
+- [X] Create a new (empty) JavaScript file named `sandbox.js` and edit it in VS code
+- [X] Write some JavaScript in `sandbox.js`
+- [X] Use `node` in the terminal to run the file
 
 The name `sandbox.js` is meant as an example. You could name the file anything.
 
@@ -114,32 +114,32 @@ The name `sandbox.js` is meant as an example. You could name the file anything.
 
 You should be able to...
 
-- [ ] Use the `node` command to enter into the interactive JavaScript shell (REPL)
-- [ ] Type small snippets of JavaScript in the REPL and observe how they're evaluated
-- [ ] Exit the REPL
+- [X] Use the `node` command to enter into the interactive JavaScript shell (REPL)
+- [X] Type small snippets of JavaScript in the REPL and observe how they're evaluated
+- [X] Exit the REPL
 
 ## Tasks - JavaScript Fundamentals
 
 ### Console Output And Debugging
 
-- [ ] Use `console.log` to print to the console
-- [ ] Use `typeof` to check what type of data a variable holds
+- [X] Use `console.log` to print to the console
+- [X] Use `typeof` to check what type of data a variable holds
 
 ### Numbers
 
 In a file named `numbers.js`, you should be able to do the following:
 
-- [ ] Assign different numbers to two variables named `num1` and `num2`
-- [ ] Use the following operations on `num1` and `num2` and explain what they represent:
-  - [ ] `+`
-  - [ ] `-`
-  - [ ] `*`
-  - [ ] `/`
-  - [ ] `%`
-  - [ ] `**`
-  - [ ] `Math.floor(num1 / num2)`
-- [ ] Predict how the output of your program will change when you change the values of `num1` and `num2`
-- [ ] Assign a number to a variable named `blah` and...
+- [X] Assign different numbers to two variables named `num1` and `num2`
+- [X] Use the following operations on `num1` and `num2` and explain what they represent:
+  - [X] `+`
+  - [X] `-`
+  - [X] `*`
+  - [X] `/`
+  - [X] `%`
+  - [X] `**`
+  - [X] `Math.floor(num1 / num2)`
+- [X] Predict how the output of your program will change when you change the values of `num1` and `num2`
+- [X] Assign a number to a variable named `blah` and...
   - [ ] Get the right-most digit in `blah` using the `%` operator
   - [ ] Determine whether `blah` is even or odd
   - [ ] Increment the value of `blah`...
