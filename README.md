@@ -207,9 +207,9 @@ In a file called `objects.js`, you should be able to do the following:
 
 In a file called `conversions.js`, you should be able to do the following:
 
-- [ ] Convert a number to a string, e.g., `1234` to `'1234'`
-- [ ] Convert a string to a number, e.g., `'1234'` to `1234`
-- [ ] Convert a string to an array containing its characters, e.g.,
+- [X] Convert a number to a string, e.g., `1234` to `'1234'`
+- [X] Convert a string to a number, e.g., `'1234'` to `1234`
+- [X] Convert a string to an array containing its characters, e.g.,
 
   ```javascript
   'apples'
