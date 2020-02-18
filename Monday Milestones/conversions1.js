@@ -1,6 +1,6 @@
 // number to string
 let num = 15
-let number = num.toString(); // Expected output
+let number = num.toString(num); // Expected output:
 console.log(number);
 
 
