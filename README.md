@@ -169,8 +169,8 @@ In a file called `strings.js`, you should be able to do the following:
   - [X] Get the 2nd character in `waffles` (at index `1`)
   - [X] Get the last character in `waffles`
   - [X] Define a variable `k` containing a number and get the character at index `k` in `waffles`
-  - [ ] Modify the value of `waffles` by appending the letter `'a'` to it
-- [ ] Use template literals to print a formatted string containing dynamic information, e.g., if `firstName` is `'Jesse'`, use a template literal to print `'Hello, Jesse!'`.
+  - [X] Modify the value of `waffles` by appending the letter `'a'` to it
+- [X] Use template literals to print a formatted string containing dynamic information, e.g., if `firstName` is `'Jesse'`, use a template literal to print `'Hello, Jesse!'`.
 
 ### Arrays
 
@@ -196,12 +196,12 @@ In a file called `arrays.js`, you should be able to do the following:
 
 In a file called `objects.js`, you should be able to do the following:
 
-- [ ] Declare a variable named `personData` containing an empty object `{}`
-- [ ] Modify `personData` so that...
-  - [ ] The value for the key `firstName` is `'Jean-Luc'`
-  - [ ] The value for the key `lastName` is `'Picard'`
-  - [ ] The value for the key `age` is `79`
-- [ ] Create an object named `daysInMonth` whose keys are strings of the month names `'January'`, `'February'`, etc. and the keys are the number of days in that month.
+- [X] Declare a variable named `personData` containing an empty object `{}`
+- [X] Modify `personData` so that...
+  - [X] The value for the key `firstName` is `'Jean-Luc'`
+  - [X] The value for the key `lastName` is `'Picard'`
+  - [X] The value for the key `age` is `79`
+- [X] Create an object named `daysInMonth` whose keys are strings of the month names `'January'`, `'February'`, etc. and the keys are the number of days in that month.
 
 ### Conversions And Equivalents
 
@@ -216,14 +216,14 @@ In a file called `conversions.js`, you should be able to do the following:
   ['a', 'p', 'p', 'l', 'e', 's']
   ```
 
-- [ ] Given an array containing strings, join the strings together into a single string
+- [X] Given an array containing strings, join the strings together into a single string
 
   ```javascript
   ['one', '--two--', 'three']
   'one--two--three'
   ```
 
-- [ ] Given an array containing strings, join the strings together into a string separated by a `|` character
+- [X] Given an array containing strings, join the strings together into a string separated by a `|` character
 
   ```javascript
   ['one', 'two', 'three']
